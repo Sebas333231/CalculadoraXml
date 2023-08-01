@@ -9,3 +9,5 @@ Esta calculadora es muy practica para los que estan aprendiendo sobre kotlin, su
 tambien puede servir por si quieres desarrollar una calculadora con un mejor diseño en jetpack compose
 
 
+![Screenshot_2023-07-31-21-17-49-558_com example calculadoraxml](https://github.com/Sebas333231/CalculadoraXml/assets/110652225/cf662a36-1872-485d-84f9-5cc9f0ecc682)
+![Screenshot_2023-07-31-21-17-41-766_com example calculadoraxml](https://github.com/Sebas333231/CalculadoraXml/assets/110652225/2a2af101-25b4-405a-b67f-92eb382a6ed4)
